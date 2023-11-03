@@ -1,6 +1,6 @@
 using System;
 
-class HelloWorld {
+class Hasan{
   static void Main(string[] args) {
     Console.WriteLine("Hello world");
   }
